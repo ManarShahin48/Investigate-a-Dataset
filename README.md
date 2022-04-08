@@ -1,2 +1,2 @@
 # Investigate-a-Dataset
-the second project for FWD Scholarship from the ministry of communications in Data Analysis Professional Nanodegree Program
+The second project for FWD Scholarship from the ministry of communications in Data Analysis Professional Nanodegree Program
